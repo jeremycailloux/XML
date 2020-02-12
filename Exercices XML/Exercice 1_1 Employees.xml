@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Company>
+
+	<Employees>
+
+		<Employee EmployeeID="1" AddressId ="" ReportsTo ="" LastName ="" FirstName ="" Title="">
+		
+			<EmployeeTerritories>
+			
+				<EmployeeTerritory TerritoryId="1"/>
+				<EmployeeTerritory TerritoryId="2"/>
+
+			</EmployeeTerritories>
+
+		</Employee>
+		
+		<Employee EmployeeID="2" AddressId ="" ReportsTo ="" LastName ="" FirstName ="" Title="">
+		
+			<EmployeeTerritories>
+			
+				<EmployeeTerritory TerritoryId="3"/>
+				<EmployeeTerritory TerritoryId="4"/>
+
+			</EmployeeTerritories>
+
+		</Employee>
+
+	</Employees>
+	
+	<Territories>
+	
+		<Territory TerritoryId="1" RegionId="1" Name="France" />
+		<Territory TerritoryId="2" RegionId="2" Name="Japon" />
+		<Territory TerritoryId="3" RegionId="2" Name="Inde" />
+		<Territory TerritoryId="4" RegionId="1" Name="Norvège" />
+		
+	</Territories>
+	
+</Company>

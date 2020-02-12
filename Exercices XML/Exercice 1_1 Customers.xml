@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Customers>
+
+	<Customer CustomerId ="1" AddressId ="" CompanyName ="">
+	
+		<Orders>
+		
+			<Order OrderId ="1" AddressId="" EmployeeId ="" ShipperId ="" OrderDate ="">
+	
+				<OrderDetail ProductId="1" UnitPrice="" Quantity="" Discount="" />
+				<OrderDetail ProductId="2" UnitPrice="" Quantity="" Discount="" />
+	
+			</Order>
+			
+			<Order OrderId ="2" AddressId="" EmployeeId ="" ShipperId ="" OrderDate ="">
+	
+				<OrderDetail ProductId="3" UnitPrice="" Quantity="" Discount="" />
+				<OrderDetail ProductId="4" UnitPrice="" Quantity="" Discount="" />
+				<OrderDetail ProductId="5" UnitPrice="" Quantity="" Discount="" />
+	
+			</Order>
+			
+		</Orders>
+		
+	</Customer>
+	
+	<Customer CustomerId ="2" AddressId ="" CompanyName ="">
+	
+		<Orders>
+		
+			<Order OrderId ="1" AddressId="" EmployeeId ="" ShipperId ="" OrderDate ="">
+	
+				<OrderDetail ProductId="1" UnitPrice="" Quantity="" Discount="" />
+				<OrderDetail ProductId="2" UnitPrice="" Quantity="" Discount="" />
+	
+			</Order>
+			
+			<Order OrderId ="2" AddressId="" EmployeeId ="" ShipperId ="" OrderDate ="">
+	
+				<OrderDetail ProductId="3" UnitPrice="" Quantity="" Discount="" />
+				<OrderDetail ProductId="4" UnitPrice="" Quantity="" Discount="" />
+				<OrderDetail ProductId="5" UnitPrice="" Quantity="" Discount="" />
+	
+			</Order>
+			
+		</Orders>
+		
+	</Customer>
+	
+</Customers>
